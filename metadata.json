@@ -1,0 +1,6 @@
+{
+  "name": "Hollywood Battler",
+  "description": "Direct cinematic 3D squad battles with Hollywood camera choreography, slow-mo impact speed ramping, and hero loadout management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
